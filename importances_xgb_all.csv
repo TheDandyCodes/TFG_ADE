@@ -1,0 +1,9 @@
+Features,Importance,tree
+Type of Travel,0.49,xgb_all
+Customer Type,0.27,xgb_all
+Comodidad,0.11,xgb_all
+Servicio,0.06,xgb_all
+conveniencia,0.05,xgb_all
+Age,0.01,xgb_all
+Flight Distance,0.01,xgb_all
+Arrival Delay in Minutes,0.01,xgb_all
